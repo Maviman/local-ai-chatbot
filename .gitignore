@@ -1,0 +1,10 @@
+# Only the main build is tracked: app, launcher source, scripts, README.
+/*
+!/.gitignore
+!/app/
+!/launcher_src/
+!/*.bat
+!/README.md
+__pycache__/
+*.pyc
+*.log
